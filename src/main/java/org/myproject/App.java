@@ -1,7 +1,7 @@
 package org.myproject;
 
 /**
- * Hello world!
+ * Hello CodeSense!
  *
  */
 public class App 
